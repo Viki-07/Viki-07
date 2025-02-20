@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Machine Learning , AI**
 
 - 👯 I’m looking to collaborate on **Projects based on Flutter**
+- 👯 I’m looking to collaborate on High-Performance C/C++ Projects
 
 - 📫 How to reach me **vikim9045@gmail.com**
 
